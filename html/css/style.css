@@ -1,0 +1,85 @@
+body{padding:0;margin:0;}
+img,p,form,ul{border:none;padding:0;margin:0;}
+.clr{clear:both;padding:0;margin:0;}
+.back{background:url(../images/background.jpg) repeat 0 0;}
+.mainwraper{width:976px;padding:0 0 0px 0;margin:0 auto}
+.body_bg{background:url(../images/body_bg.png) no-repeat 0 0;width:976px;height:464px;}
+.logo{width:290px;float:left;display:block;padding:20px 0 20px 30px;}
+.icon_nav{width:630px;float:left;display:block;}
+ul.icon{float:right;margin:10px 20px 0 0;}
+ul.icon li{float:left;display:block;list-style:none;padding:0 0 0 10px;}
+.navi{padding:80px 0 0 0;}
+.flash{width:910px;padding:10px 30px;}
+.body_bot{background:url(../images/body_bot.jpg) no-repeat #1b1310;padding:0 20px;overflow:hidden;}
+.body_bot_left{width:690px;float:left;display:block;}
+.body_bot_right{width:227px;float:left;display:block;padding:10px 19px 0 0;}
+p.tea_room{font:normal 18px/20px Verdana, Geneva, sans-serif;color:#f8d583;padding:10px 5px;}
+p.tea_pic{float:left;display:block;padding:0 20px 20px 0;}
+p.pic_text{font:normal 14px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#d8d2a9;padding:0 20px 10px 0;text-align:justify;}
+p.more{float:right;margin:0 20px 0 0;font:normal 12px/14px Verdana, Geneva, sans-serif;color:#f8d583;}
+p.more a{font:normal 12px/14px Verdana, Geneva, sans-serif;color:#f8d583;text-decoration:none;}
+p.more a:hover{font:normal 12px/14px Verdana, Geneva, sans-serif;color:#f8d583;text-decoration: underline;}
+.log_bg{background:url(../images/logbg.jpg) no-repeat 0 0; width:227px;height:33px;}
+p.do{font:normal 14px/20px  "Trebuchet MS", Arial, Helvetica, sans-serif;color:#f8d583;padding:5px 10px;}
+.log_back{background:#2f2118;overflow:hidden;}
+.log_left{width:90px;float:left;display:block;}
+.log_right{width:137px;float:left;display:block;}
+p.name{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#656565;padding:15px 0 5px 10px;}
+p.coments{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#656565;padding:0 0 5px 10px;}
+input.name_box{width:119px;display:block;font:normal 12px/14px Arial,Helvetica,sans-serif;color:#000;display:block;padding:0 2px;margin:10px 0;background:url(../images/box.jpg) no-repeat;border:none;height:23px;}
+textarea.name_text{width:118px;display:block;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#000;height:62px;padding:4px 0 0 2px;margin:0px 0 10px 0;background: url(../images/te_box1.JPG) no-repeat 0 0;border:none;}
+input.sub{margin:0 0 0 40px;}
+.log_bg{background:url(../images/logbg.jpg) no-repeat 0 0; width:227px;height:33px;}
+.quick{width:227px;height:33px;padding:15px 0 0 0;}
+p.tea_quick{font:normal 18px/20px Verdana, Geneva, sans-serif;color:#f8d583;text-align:center;padding:0 0 10px 0;}
+p.share{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#656565;padding:0 0 10px 0;text-align:center;}
+p.share a{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#656565;text-align:center;text-decoration:none;}
+p.share a:hover{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#00A849;text-align:center;text-decoration:underline;}
+.mainfooter{background:#ffdf61;width:100%;height:80px;}
+.footer{width:976px;margin:0 auto;}
+ul.foter_link{padding:10px 0 0 50px;}
+ul.foter_link li{float:left;font:normal 12px/26px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#56321c;padding:0 0 10px 4px;list-style:none;width:164px;text-align:center;display:block;}
+ul.foter_link li a{float:left;font:normal 12px/26px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#56321c;text-decoration:none;width:164px;text-align:center;display:block;}
+ul.foter_link li a:hover{font:normal 12px/26px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#56321c;background:url(../images/foter_hov.png) no-repeat 0 0;width:164px;height:26px;text-align:center;}
+ul.foter_link li a.active{background:url(../images/foter_hov.png) no-repeat 0 0;width:164px;height:26px;text-align:center;}
+p.copy{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#985831;float:left;padding:10px 10px;}
+p.rice{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#985831;float:right;margin:10px 10px;}
+p.rice a{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#985831;text-decoration:none;}
+p.rice a:hover{font:normal 12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#00A849;text-decoration: underline;}
+p.facebook{float:left;display:block;padding:0 0 0 60px;}
+p.twiter{float:left;display:block;padding:0 0 0 15px;}
+/*==================beverages/contact=============*/
+p.commingsoon{font:normal 20px/22px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#FFF;text-align:center;}
+.conleft{width:250px;float:left;display:block;}
+.conright{width:670px;float:left;display:block;padding:0px 0 15px 0;}
+/*.con_mid{width:300px;float:left;display:block;padding:100px 0 0 0;}*/
+.con_bg{background:#1b100a;overflow:hidden;width:320px;}
+p.con_feed{font:normal 14px/16px   "Trebuchet MS", Arial, Helvetica, sans-serif;color:#F8D583;padding:10px 0 0 10px;}
+.con_head{background:url(../images/con_bg.png) no-repeat 0 0;width:320px;height:39px;margin:10px 0 0 0;}
+.contact_left{width:100px;float:left;display:block;}
+.contact_right{width:220px;float:left;display:block;}
+p.con_name{font:normal 14px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#656565;padding:8px 0 5px 10px;}
+input.con_box{width:200px;display:block;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#000;height:24px;padding:0 0 0 5px;margin:6px 0;background:url(../images/con_box.JPG) no-repeat 0 0;border:none;color:#FFF;}
+textarea.con_text_box{width:203px;display:block;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#000;height:62px;padding:5px 0 0 6px;margin:6px 0;background: url(../images/te_box2.JPG) no-repeat 0 0;border:none;color:#FFF;}
+textarea.con_text_box4{width:203px;display:block;font:normal 12px/14px Arial, Helvetica, sans-serif;color:#000;height:62px;padding:5px 0 0 6px;margin:6px 0;background: url(../images/box_3.gif) no-repeat 0 0;border:none;color:#FFF;}
+input.con_sub{margin:5px 0 0 40px;}
+p.con_add{font:normal 12px/18px Tahoma, Geneva, sans-serif;color:#FFF;padding:25px 10px;text-align:justify;}
+p.con_add a{font:normal 12px/16px Tahoma, Geneva, sans-serif;color:#FFF;text-align:justify;text-decoration:none;}
+p.con_add a:hover{font:normal 12px/16px Tahoma, Geneva, sans-serif;color:#00A849;text-align:justify;text-decoration:underline;}
+/*=========================sitemaip============================*/
+p.sitemap{ background: url(../images/site.png) no-repeat 0 0;font:normal 18px/20px Verdana, Geneva, sans-serif;color:#f8d583;padding:2px 0 10px 50px;margin:0 0 0 20px;}
+p.sitemap a{font:normal 18px/20px Verdana, Geneva, sans-serif;color:#f8d583;text-decoration:none;}
+p.sitemap a:hover{font:normal 18px/20px Verdana, Geneva, sans-serif;color:#00A849;text-align:center;text-decoration:underline;}
+p.whitetea{font:bold 14px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#f8d583;padding:0 20px 10px 0;text-align:justify;}
+p.working{font:bold 18px/20px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#f8d583;padding:5px 20px 10px 10px;text-align:center;}
+.product_right{width:320px;float:left;display:block;padding:0 0 0 20px}
+p.other_head{font:normal 18px/20px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#f8d583;padding:10px 5px;text-align:center;}
+p.pro_head{font:normal 14px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#f8d583;padding:0 0px 5px 0;text-align:justify;}
+p.pro_head a{color:#f8d583;text-decoration:none;}
+p.pro_head a:hover{color:#f8d583;text-decoration: underline;}
+p.pro_text{font:normal 12px/18px Verdana, Geneva, sans-serif;color:#d8d2a9;padding:0 15px 10px 0;text-align:justify;}
+p.veg_text{font:normal 14px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#d8d2a9;padding:0 0 10px 15px;background:url(../images/dot.png) no-repeat 0 4px;}
+p.veg_text_con{font:normal 14px/16px Verdana, Geneva, sans-serif;color:#d8d2a9;padding:10px 0 10px 15px;background:url(../images/dot.png) no-repeat 0 14px;}
+p.con_name2{font:normal 14px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#d8d2a9;padding:10px 0 10px 15px;}
+.conleft1{width:330px;float:left;display:block;}
+.product_right2{width:290px;float:left;display:block;padding:0 0 0 30px}

@@ -1,0 +1,41 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="MasterPage, App_Web_t_t8liig" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>The Tea Room Company</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body bgcolor="#ffffcc" style="overflow: scroll">
+    <form id="form1" runat="server">
+    <table width="100%" style="height: 100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top">
+                <img id="imgLogo" alt="Logo" src="Images/Logo.jpg" runat="server" />
+            </td>
+            <td><img id="imgCatchLine" alt="Logo" src="Images/CatchLine.jpg" runat="server" /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <img id="imgSpacer1" alt="Spacer" src="Images/SpacerH100pxW5px.jpg" 
+                    runat="server" />
+            </td>
+        </tr>
+         <tr>
+            <td colspan="2">
+                <img id="imgSpacer2" alt="Spacer" src="Images/SpacerH100pxW5px.jpg" 
+                    runat="server" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="right" valign="bottom">
+                &nbsp;<img id="imgSoon" alt="Comming Soon" src="Images/Soon.jpg" runat="server" />
+            </td>
+        </tr>
+    </table>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
